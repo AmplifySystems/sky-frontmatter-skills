@@ -1,0 +1,6 @@
+interface:
+  display_name: "TOC Section Nav"
+  short_description: "Add Prev/Next navigation to long docs."
+  default_prompt: "Use $markdown-toc-section-nav to add stable TOC anchors and section navigation to this long Markdown runbook."
+policy:
+  allow_implicit_invocation: true

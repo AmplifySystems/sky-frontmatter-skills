@@ -1,0 +1,6 @@
+interface:
+  display_name: "Persist Spec"
+  short_description: "Save durable specs as Markdown docs."
+  default_prompt: "Use $documentation-as-code-persist-spec to turn this design into a durable repo Markdown spec."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auto Doc Indexing"
+  short_description: "Add searchable front matter and index rows."
+  default_prompt: "Use $auto-doc-indexing to add complete front matter and parent index registration to this Markdown doc."
+policy:
+  allow_implicit_invocation: true

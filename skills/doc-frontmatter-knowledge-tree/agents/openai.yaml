@@ -1,0 +1,6 @@
+interface:
+  display_name: "Knowledge Tree"
+  short_description: "Wire docs into tags, links, and indexes."
+  default_prompt: "Use $doc-frontmatter-knowledge-tree to connect these Markdown docs into a navigable knowledge tree."
+policy:
+  allow_implicit_invocation: true
