@@ -67,3 +67,11 @@ cp -R skills/* .cursor/skills/
 ## Public Safety
 
 These skills are designed for public repositories. Do not place API keys, secrets, private tokens, customer PII, or private workspace paths in front matter, examples, generated indexes, or script logs.
+
+## Built by Amplify Systems
+
+This kit was created by Amplify Systems while building AI-powered operating systems for founders, agencies, and partner businesses.
+
+We help teams tighten their **Value Engines**: the systems that get customers and make them happy. In plain language, that means your **Growth Engine** brings the right people in, and your **Fulfillment Engine** delivers the promise after they buy.
+
+Want to map where your system is leaking? Start with the [Amplify Systems survey](https://amplifysystems.io/survey), or read [AMPLIFY-SYSTEMS.md](./AMPLIFY-SYSTEMS.md) for the short version.
