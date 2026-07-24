@@ -39,7 +39,7 @@ Front matter and documentation-as-code are part of that operating system. When t
 
 If you want help finding the biggest leak in your Growth or Fulfillment Engine, start here:
 
-[Map your Value Engine with Amplify Systems](https://amplifysystems.io/survey)
+[Book a Clarity Call with Amplify Systems](https://amplifysystems.io/clarity)
 
 You can also explore the Hidden Profit path:
 
