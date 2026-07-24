@@ -74,4 +74,4 @@ This kit was created by Amplify Systems while building AI-powered operating syst
 
 We help teams tighten their **Value Engines**: the systems that get customers and make them happy. In plain language, that means your **Growth Engine** brings the right people in, and your **Fulfillment Engine** delivers the promise after they buy.
 
-Want to map where your system is leaking? Start with the [Amplify Systems survey](https://amplifysystems.io/survey), or read [AMPLIFY-SYSTEMS.md](./AMPLIFY-SYSTEMS.md) for the short version.
+Want to map where your system is leaking? Start with an [Amplify Systems clarity call](https://amplifysystems.io/clarity), or read [AMPLIFY-SYSTEMS.md](./AMPLIFY-SYSTEMS.md) for the short version.
