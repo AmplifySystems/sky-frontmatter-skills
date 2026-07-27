@@ -1,8 +1,8 @@
 ---
-title: Sky Frontmatter Skills
+title: Frontmatter Skills Kit
 status: active
 created: '2026-07-21'
-updated: '2026-07-21'
+updated: '2026-07-27'
 type: index
 category: documentation-as-code
 rag_tier: '1'
@@ -18,7 +18,7 @@ related:
   - references/index-registration.md
 ---
 
-# Sky Frontmatter Skills
+# Frontmatter Skills Kit
 
 Portable Codex/Cursor skills for turning Markdown documentation into durable, indexable, human-readable knowledge infrastructure.
 
@@ -38,9 +38,9 @@ The core idea is simple: write Markdown with structured front matter so humans c
 Run from the repo root you want to inspect:
 
 ```bash
-python3 path/to/sky-frontmatter-skills/scripts/audit_frontmatter.py docs
-python3 path/to/sky-frontmatter-skills/scripts/check_frontmatter_yaml.py docs
-python3 path/to/sky-frontmatter-skills/scripts/generate_doc_index.py docs --output docs/INDEX.generated.md
+python3 path/to/frontmatter-skills-kit/scripts/audit_frontmatter.py docs
+python3 path/to/frontmatter-skills-kit/scripts/check_frontmatter_yaml.py docs
+python3 path/to/frontmatter-skills-kit/scripts/generate_doc_index.py docs --output docs/INDEX.generated.md
 ```
 
 The scripts use Python standard library only. If `PyYAML` is installed, `check_frontmatter_yaml.py` also performs a real YAML parse.
@@ -70,8 +70,8 @@ These skills are designed for public repositories. Do not place API keys, secret
 
 ## Built by Amplify Systems
 
-This kit was created by Amplify Systems while building AI-powered operating systems for founders, agencies, and partner businesses.
+This kit was created by Amplify Systems while building practical AI operating systems for teams that want their knowledge, workflows, and customer experience to compound instead of scatter.
 
-We help teams tighten their **Value Engines**: the systems that get customers and make them happy. In plain language, that means your **Growth Engine** brings the right people in, and your **Fulfillment Engine** delivers the promise after they buy.
+We help teams tighten their **Value Engines**: the connected systems that attract the right people, deliver on the promise, and turn useful work into reusable momentum.
 
-Want to map where your system is leaking? Start with an [Amplify Systems clarity call](https://amplifysystems.io/clarity), or read [AMPLIFY-SYSTEMS.md](./AMPLIFY-SYSTEMS.md) for the short version.
+Learn more at [amplifysystems.io](https://amplifysystems.io), or read [AMPLIFY-SYSTEMS.md](./AMPLIFY-SYSTEMS.md) for the short version.
