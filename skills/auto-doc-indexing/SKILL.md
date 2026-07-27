@@ -16,7 +16,7 @@ description: Add or audit YAML front matter and index registration for Markdown 
 7. Run the audit script against the changed docs when available:
 
 ```bash
-python3 path/to/sky-frontmatter-skills/scripts/audit_frontmatter.py path/to/docs
+python3 path/to/frontmatter-skills-kit/scripts/audit_frontmatter.py path/to/docs
 ```
 
 ## Required Front Matter
