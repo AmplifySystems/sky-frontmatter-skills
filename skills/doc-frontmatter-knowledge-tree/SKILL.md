@@ -26,7 +26,7 @@ Turn isolated Markdown files into a navigable knowledge tree. A useful doc shoul
 7. Generate or refresh a docs index if the repo uses generated indexes:
 
 ```bash
-python3 path/to/sky-frontmatter-skills/scripts/generate_doc_index.py docs --output docs/INDEX.generated.md
+python3 path/to/frontmatter-skills-kit/scripts/generate_doc_index.py docs --output docs/INDEX.generated.md
 ```
 
 ## Tag Guidelines
